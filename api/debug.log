@@ -1,0 +1,125 @@
+
+REQUEST:
+Array
+(
+    [patient_id] => 1
+    [label] => Positive
+    [confidence] => 0.91
+)
+
+FILES:
+Array
+(
+    [image] => Array
+        (
+            [name] => scan.jpg
+            [full_path] => scan.jpg
+            [type] => image/jpeg
+            [tmp_name] => /Applications/XAMPP/xamppfiles/temp/phpx4fLZN
+            [error] => 0
+            [size] => 252924
+        )
+
+)
+
+REQUEST:
+Array
+(
+    [patient_id] => 1
+    [label] => Positive
+    [confidence] => 0.91
+)
+
+FILES:
+Array
+(
+    [image] => Array
+        (
+            [name] => scan.jpg
+            [full_path] => scan.jpg
+            [type] => image/jpeg
+            [tmp_name] => /Applications/XAMPP/xamppfiles/temp/phpk3xo3b
+            [error] => 0
+            [size] => 252924
+        )
+
+)
+
+REQUEST:
+Array
+(
+    [patient_id] => 1
+    [label] => Positive
+    [confidence] => 0.91
+)
+
+FILES:
+Array
+(
+    [image] => Array
+        (
+            [name] => scan.jpg
+            [full_path] => scan.jpg
+            [type] => image/jpeg
+            [tmp_name] => /Applications/XAMPP/xamppfiles/temp/phpLwpbwB
+            [error] => 0
+            [size] => 252924
+        )
+
+)
+
+REQUEST:
+Array
+(
+    [patient_id] => 124
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+FILES:
+Array
+(
+    [image] => Array
+        (
+            [name] => scan.jpg
+            [full_path] => scan.jpg
+            [type] => image/jpeg
+            [tmp_name] => /Applications/XAMPP/xamppfiles/temp/phpz5hqYW
+            [error] => 0
+            [size] => 282160
+        )
+
+)
+
+REQUEST:
+Array
+(
+    [patient_id] => 1
+    [label] => 2
+    [confidence] => 3
+)
+
+FILES:
+Array
+(
+    [xray] => Array
+        (
+            [name] => Copy of Screenshot 2025-10-08 at 8.27.36 A.png
+            [full_path] => Copy of Screenshot 2025-10-08 at 8.27.36 A.png
+            [type] => image/png
+            [tmp_name] => /Applications/XAMPP/xamppfiles/temp/phpx20p7q
+            [error] => 0
+            [size] => 547630
+        )
+
+)
+
+REQUEST:
+Array
+(
+)
+
+FILES:
+Array
+(
+)
