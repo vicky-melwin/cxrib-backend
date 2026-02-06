@@ -1,2 +1,11 @@
+# macOS junk
 .DS_Store
+
+# Environment variables
+.env
+
+# Runtime uploaded scans
+uploads/*
+!uploads/.gitkeep
+
 
