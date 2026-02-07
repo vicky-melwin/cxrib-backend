@@ -123,3 +123,1620 @@ FILES:
 Array
 (
 )
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 92.93317794799805
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 252
+    [label] => right
+    [confidence] => 45.18463909626007
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 95.8380401134491
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 99.63317513465881
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 250
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7103.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8765.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3464.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7232.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8754.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1583.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 252
+    [label] => right
+    [confidence] => 47.10795879364014
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4117.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 92.93317794799805
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 99.63317513465881
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770445728
+    [label] => bicrib
+    [confidence] => 99.65920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_5531.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8120.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4186.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 254
+    [label] => bicrib
+    [confidence] => 99.65920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_5901.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4816.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9624.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9070.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770446615
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770446615
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4019.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9412.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8926.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3288.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3553360104560852
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9996.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6218.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3494187593460083
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.35393789410591125
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.352220356464386
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6665.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3547355532646179
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7574.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_5660.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.3703562915325165
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3703562915325165
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1997.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9123.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1467.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.35442644357681274
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.35770362615585327
+)
+
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9130.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7892.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8182.jpg
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6046.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.958380401134491
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1268.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1792.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_5479.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => normal
+    [confidence] => 0.742752730846405
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2590.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6500.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9155.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2439.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2058.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1768.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4105.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2075.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2399.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6634.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7328.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770456819
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7669.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770456819
+    [label] => bicrib
+    [confidence] => 0.9902661442756653
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3090.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 255
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2464.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9445.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 250
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7676.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 92.93317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6206.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 95.8380401134491
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7134.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 99.63317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8523.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 252
+    [label] => right
+    [confidence] => 45.18463909626007
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2617.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 252
+    [label] => right
+    [confidence] => 47.10795879364014
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3816.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 92.93317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3870.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 99.63317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7687.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770445728
+    [label] => bicrib
+    [confidence] => 99.65920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8927.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 254
+    [label] => bicrib
+    [confidence] => 99.65920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9748.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2432.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4040.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3502.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770446615
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8118.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770446615
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8247.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7765.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7399.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9209.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3553360104560852
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1196.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3494187593460083
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2764.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.35393789410591125
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_7433.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.3703562915325165
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1862.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.352220356464386
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_9108.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3703562915325165
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3255.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3547355532646179
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2023.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.35442644357681274
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_5182.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.35770362615585327
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3331.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_8768.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_1259.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.958380401134491
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4230.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_6808.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4811.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => normal
+    [confidence] => 0.742752730846405
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4741.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_3839.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_5720.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_4899.jpg
+
+[2026-02-07 10:41:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457315_2764.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_5618.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_1596.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_2286.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_5547.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_2189.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_2546.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770456819
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_4999.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770456819
+    [label] => bicrib
+    [confidence] => 0.9902661442756653
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_6623.jpg
+
+[2026-02-07 10:41:56] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 255
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457316_1282.jpg
+
+[2026-02-07 10:42:06] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 256
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+ERROR: Failed to move uploaded file to /Applications/XAMPP/xamppfiles/htdocs/cerviscan-backend/api/../uploads/scan_1770457326_1973.jpg
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 92.93317794799805
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 250
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 95.8380401134491
+)
+
+SUCCESS: Scan saved with ID 179
+SUCCESS: Scan saved with ID 180
+SUCCESS: Scan saved with ID 181
+SUCCESS: Scan saved with ID 182
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 252
+    [label] => right
+    [confidence] => 47.10795879364014
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 92.93317794799805
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 99.63317513465881
+)
+
+SUCCESS: Scan saved with ID 183
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 99.63317513465881
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770445728
+    [label] => bicrib
+    [confidence] => 99.65920448303223
+)
+
+SUCCESS: Scan saved with ID 185
+SUCCESS: Scan saved with ID 186
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 254
+    [label] => bicrib
+    [confidence] => 99.65920448303223
+)
+
+SUCCESS: Scan saved with ID 188
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+SUCCESS: Scan saved with ID 189
+SUCCESS: Scan saved with ID 190
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+SUCCESS: Scan saved with ID 191
+SUCCESS: Scan saved with ID 184
+SUCCESS: Scan saved with ID 187
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770446615
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 252
+    [label] => right
+    [confidence] => 45.18463909626007
+)
+
+SUCCESS: Scan saved with ID 192
+SUCCESS: Scan saved with ID 193
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770446615
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 194
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+SUCCESS: Scan saved with ID 195
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 253
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+SUCCESS: Scan saved with ID 196
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+SUCCESS: Scan saved with ID 197
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3553360104560852
+)
+
+SUCCESS: Scan saved with ID 198
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3494187593460083
+)
+
+SUCCESS: Scan saved with ID 199
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.35393789410591125
+)
+
+SUCCESS: Scan saved with ID 200
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.3703562915325165
+)
+
+SUCCESS: Scan saved with ID 201
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770454084
+    [label] => bicrib
+    [confidence] => 0.352220356464386
+)
+
+SUCCESS: Scan saved with ID 202
+
+[2026-02-07 15:17:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3703562915325165
+)
+
+SUCCESS: Scan saved with ID 203
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.3547355532646179
+)
+
+SUCCESS: Scan saved with ID 204
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.35442644357681274
+)
+
+SUCCESS: Scan saved with ID 205
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.35770362615585327
+)
+
+SUCCESS: Scan saved with ID 206
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+SUCCESS: Scan saved with ID 207
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+SUCCESS: Scan saved with ID 208
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.958380401134491
+)
+
+SUCCESS: Scan saved with ID 209
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 210
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 211
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => normal
+    [confidence] => 0.742752730846405
+)
+
+SUCCESS: Scan saved with ID 212
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+SUCCESS: Scan saved with ID 213
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+SUCCESS: Scan saved with ID 214
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+SUCCESS: Scan saved with ID 215
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+SUCCESS: Scan saved with ID 216
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+SUCCESS: Scan saved with ID 217
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+SUCCESS: Scan saved with ID 218
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+SUCCESS: Scan saved with ID 219
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9293317794799805
+)
+
+SUCCESS: Scan saved with ID 220
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+SUCCESS: Scan saved with ID 221
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+SUCCESS: Scan saved with ID 222
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770456819
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 223
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 1770456819
+    [label] => bicrib
+    [confidence] => 0.9902661442756653
+)
+
+SUCCESS: Scan saved with ID 224
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 255
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 225
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 256
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 226
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 257
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 227
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 251
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+SUCCESS: Scan saved with ID 228
+
+[2026-02-07 15:17:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 257
+    [label] => right
+    [confidence] => 0.958380401134491
+)
+
+SUCCESS: Scan saved with ID 229
+
+[2026-02-07 15:18:05] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 249
+    [label] => bicrib
+    [confidence] => 0.9902661442756653
+)
+
+SUCCESS: Scan saved with ID 230
+
+[2026-02-07 15:24:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 259
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+SUCCESS: Scan saved with ID 231
+
+[2026-02-07 15:28:13] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 260
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 232
+
+[2026-02-07 15:28:46] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 261
+    [label] => right
+    [confidence] => 0.9871046543121338
+)
+
+SUCCESS: Scan saved with ID 233
+
+[2026-02-07 15:29:12] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 262
+    [label] => bicrib
+    [confidence] => 0.9965920448303223
+)
+
+SUCCESS: Scan saved with ID 234
+
+[2026-02-07 15:29:25] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 263
+    [label] => bicrib
+    [confidence] => 0.9643518328666687
+)
+
+SUCCESS: Scan saved with ID 235
+
+[2026-02-07 15:48:39] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 264
+    [label] => bicrib
+    [confidence] => 0.990708589553833
+)
+
+SUCCESS: Scan saved with ID 236
+
+[2026-02-07 15:48:39] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 264
+    [label] => bicrib
+    [confidence] => 0.9963317513465881
+)
+
+SUCCESS: Scan saved with ID 237
+
+[2026-02-07 17:37:32] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 266
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 238
+
+[2026-02-07 17:37:32] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 266
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 239
+
+[2026-02-07 17:38:40] save_scan.php CALLED
+POST: Array
+(
+)
+
+ERROR: No image uploaded or upload error: Unknown
+
+[2026-02-07 17:48:20] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 267
+    [label] => left
+    [confidence] => 0.7758393883705139
+)
+
+SUCCESS: Scan saved with ID 240
+
+[2026-02-07 17:48:20] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 268
+    [label] => bicrib
+    [confidence] => 0.9902661442756653
+)
+
+SUCCESS: Scan saved with ID 241
+
+[2026-02-07 17:50:10] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 269
+    [label] => bicrib
+    [confidence] => 0.990708589553833
+)
+
+SUCCESS: Scan saved with ID 242
+
+[2026-02-07 17:53:26] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 270
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 243
+
+[2026-02-07 18:08:07] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 271
+    [label] => bicrib
+    [confidence] => 0.9643518328666687
+)
+
+SUCCESS: Scan saved with ID 244
