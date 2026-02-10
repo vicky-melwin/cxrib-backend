@@ -1740,3 +1740,153 @@ POST: Array
 )
 
 SUCCESS: Scan saved with ID 244
+
+[2026-02-08 10:11:44] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 272
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 245
+
+[2026-02-08 10:14:26] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 273
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 246
+
+[2026-02-08 10:14:33] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 273
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 247
+
+[2026-02-08 10:16:04] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 274
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 248
+
+[2026-02-10 04:06:19] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 276
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 249
+
+[2026-02-10 04:06:33] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 276
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 250
+
+[2026-02-10 04:07:20] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 278
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 251
+
+[2026-02-10 04:07:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 279
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 252
+
+[2026-02-10 04:08:12] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 280
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 253
+
+[2026-02-10 04:08:55] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 281
+    [label] => right
+    [confidence] => 0.958380401134491
+)
+
+SUCCESS: Scan saved with ID 254
+
+[2026-02-10 04:24:47] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 282
+    [label] => right
+    [confidence] => 0.7384578585624695
+)
+
+SUCCESS: Scan saved with ID 255
+
+[2026-02-10 04:25:12] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 283
+    [label] => bicrib
+    [confidence] => 0.9981446266174316
+)
+
+SUCCESS: Scan saved with ID 256
+
+[2026-02-10 04:27:32] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 284
+    [label] => normal
+    [confidence] => 0.742752730846405
+)
+
+
+[2026-02-10 04:27:32] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 285
+    [label] => right
+    [confidence] => 0.9826761484146118
+)
+
+SUCCESS: Scan saved with ID 257
+SUCCESS: Scan saved with ID 258
+
+[2026-02-10 04:58:29] save_scan.php CALLED
+POST: Array
+(
+    [patient_id] => 286
+    [label] => right
+    [confidence] => 0.7828196883201599
+)
+
+SUCCESS: Scan saved with ID 259
