@@ -1,18 +1,18 @@
 <?php
-require_once __DIR__ . "/db.php";
+
+ob_start();
 header("Content-Type: application/json");
 
-$uploadDir = __DIR__ . "/../uploads/";
-$host = $_SERVER['HTTP_HOST'];   // ✅ FIX
+require_once __DIR__ . "/db.php";
 
-file_put_contents(
-    __DIR__ . "/db_check.log",
-    "DB=" . $conn->query("SELECT DATABASE()")->fetch_row()[0] . PHP_EOL,
-    FILE_APPEND
-);
+$uploadDir = __DIR__ . "/uploads/";
+
+$protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
+$host = $_SERVER['HTTP_HOST'];
+
 
 // ==========================
-// DEBUG LOG (KEEP FOR NOW)
+// DEBUG LOG
 // ==========================
 file_put_contents(
     __DIR__ . "/debug.log",
@@ -20,6 +20,7 @@ file_put_contents(
     "\nFILES:\n" . print_r($_FILES, true),
     FILE_APPEND
 );
+
 
 // ==========================
 // VALIDATE INPUT
@@ -29,61 +30,111 @@ $label      = trim($_POST["label"] ?? "");
 $confidence = floatval($_POST["confidence"] ?? 0);
 
 if ($patient_id <= 0 || $label === "" || $confidence <= 0) {
-    echo json_encode(["status" => "error", "message" => "Invalid scan data"]);
+
+    ob_clean();
+    echo json_encode([
+        "status" => "error",
+        "message" => "Invalid scan data"
+    ]);
     exit;
 }
 
 if (!isset($_FILES["xray"])) {
-    echo json_encode(["status" => "error", "message" => "No image uploaded"]);
+
+    ob_clean();
+    echo json_encode([
+        "status" => "error",
+        "message" => "No image uploaded"
+    ]);
     exit;
 }
 
+
 // ==========================
-// IMAGE UPLOAD
+// IMAGE VALIDATION
 // ==========================
 $file = $_FILES["xray"];
+
 $allowed = ["image/jpeg", "image/png", "image/jpg"];
 
 if (!in_array($file["type"], $allowed)) {
-    echo json_encode(["status" => "error", "message" => "Invalid image type"]);
+
+    ob_clean();
+    echo json_encode([
+        "status" => "error",
+        "message" => "Invalid image type"
+    ]);
     exit;
 }
 
+
+// ==========================
+// CREATE UPLOAD FOLDER
+// ==========================
 if (!is_dir($uploadDir)) {
     mkdir($uploadDir, 0777, true);
 }
 
-$ext = pathinfo($file["name"], PATHINFO_EXTENSION);
-$newName = "xray_" . time() . "_" . rand(1000,9999) . "." . $ext;
+
+// ==========================
+// SAVE IMAGE
+// ==========================
+$ext = strtolower(pathinfo($file["name"], PATHINFO_EXTENSION));
+
+$newName = "scan_" . time() . "_" . rand(1000,9999) . "." . $ext;
+
 $savePath = $uploadDir . $newName;
 
 if (!move_uploaded_file($file["tmp_name"], $savePath)) {
-    echo json_encode(["status" => "error", "message" => "Image upload failed"]);
+
+    ob_clean();
+    echo json_encode([
+        "status" => "error",
+        "message" => "Image upload failed"
+    ]);
     exit;
 }
 
-// ✅ CORRECT IMAGE URL (WORKS FOR NGROK + LOCAL)
-$imageURL = "https://$host/cerviscan-backend/uploads/$newName";
 
 // ==========================
-// SAVE TO DB
+// BUILD IMAGE URL
 // ==========================
-$stmt = $conn->prepare("
-    INSERT INTO scan_history (patient_id, label, confidence, image_url)
-    VALUES (?, ?, ?, ?)
-");
+$imageURL =
+    $protocol . "://" .
+    $host .
+    "/april_2025_batch/cxrib/api/uploads/" .
+    $newName;
+
+
+// ==========================
+// SAVE TO DATABASE
+// ==========================
+$stmt = $conn->prepare(
+    "INSERT INTO scan_history (patient_id, label, confidence, image_url)
+     VALUES (?, ?, ?, ?)"
+);
 
 $stmt->bind_param("isds", $patient_id, $label, $confidence, $imageURL);
 
+
 if ($stmt->execute()) {
+
+    ob_clean();
     echo json_encode([
         "status" => "success",
         "scan_id" => $stmt->insert_id,
         "image_url" => $imageURL
     ]);
+
 } else {
+
+    ob_clean();
     echo json_encode([
         "status" => "error",
         "message" => $stmt->error
     ]);
 }
+
+$stmt->close();
+$conn->close();
+exit;

@@ -1,4 +1,5 @@
 <?php
+
 require_once __DIR__ . "/db.php";
 
 if (!isset($_GET['id'])) {
@@ -9,19 +10,28 @@ if (!isset($_GET['id'])) {
 $scan_id = intval($_GET['id']);
 
 $stmt = $conn->prepare(
-    "SELECT image_data FROM scan_history WHERE id = ?"
+    "SELECT image_url FROM scan_history WHERE id = ?"
 );
+
 $stmt->bind_param("i", $scan_id);
 $stmt->execute();
-$stmt->store_result();
+$stmt->bind_result($image_url);
+$stmt->fetch();
 
-if ($stmt->num_rows === 0) {
+if (!$image_url) {
     http_response_code(404);
     exit("Scan not found");
 }
 
-$stmt->bind_result($image);
-$stmt->fetch();
+$filename = basename($image_url);
+
+$filePath = __DIR__ . "/uploads/" . $filename;
+
+if (!file_exists($filePath)) {
+    http_response_code(404);
+    exit("Image file not found");
+}
 
 header("Content-Type: image/jpeg");
-echo $image;
+readfile($filePath);
+exit;
